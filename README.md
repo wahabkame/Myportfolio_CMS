@@ -48,7 +48,7 @@ This is my portfolio , done it by php/Mysql CMS
                2-import from folder "database" file named "db_freelance.sql"
                3-then you database should be something like this    
                
-               ![database image](Myportfolio_CMS/DDD.png.png)
+               ![database image](/DDD.png.png)
 
               
 
