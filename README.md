@@ -46,8 +46,8 @@ This is my portfolio , done it by php/Mysql CMS
          How to access to database
                1-create new db as "db_freelance"
                2-import from folder "database" file named "db_freelance.sql"
-               3then you database should be something like this
-              ![Alt text](/uploads/db_img.jpg "DB_img")
-              
+               3-then you database should be something like this              
+              ![db_img](https://user-images.githubusercontent.com/88632858/154840195-e8b089ff-2fed-4486-9edc-6fb61cb5cb12.jpg)
+
               
 
