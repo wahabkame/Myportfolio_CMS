@@ -6,7 +6,7 @@ This is my portfolio , done it by php/Mysql CMS
 #                   Freelance
 
 
-#Note:
+# Note:
     I am wahabkame .
     i am JR web developer.
     This code for reviewing ONLY.
@@ -28,11 +28,11 @@ This is my portfolio , done it by php/Mysql CMS
          Manage Projects Completed
          Manage Contacts
 
-#File Structure----
-     Main  1- index.php  [ include ... config.php //conncection to db
+# File Structure
+       Main  1- index.php  [ include ... config.php //conncection to db
                                    ... header.php
                                    ... footer.php
-                         ]
+                           ]
                     header-about-resume(education-work-skills)
                     -Portfolio-Testimonials-footer.
            
