@@ -42,8 +42,12 @@ This is my portfolio , done it by php/Mysql CMS
        Be note i used php6/7 thats means SQLi NOT SQL
          basically , Phphmyadmin , you can access By
               1-Downlaod XAMPP 
-              2-download PHP6/7
-              
+              2-download PHP6/7              
+         How to access to database
+               1-create new db as "db_freelance"
+               2-import from folder "database" file named "db_freelance.sql"
+               3then you database should be something like this
+              ![Alt text](/uploads/SharedScreenshot.jpg "DB_img")
               
               
 
