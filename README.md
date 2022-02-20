@@ -29,10 +29,10 @@ This is my portfolio , done it by php/Mysql CMS
          Manage Contacts
 
 # File Structure
-       Main  1- index.php  [ include ... config.php //conncection to db
+       Main  1- index.php  <p style="color:red"> [ include ... config.php //conncection to db
                                    ... header.php
                                    ... footer.php
-                           ]
+                           ]</p>
                     header-about-resume(education-work-skills)
                     -Portfolio-Testimonials-footer.
            
