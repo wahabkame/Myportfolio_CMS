@@ -35,5 +35,15 @@ This is my portfolio , done it by php/Mysql CMS
                            ]
                     header-about-resume(education-work-skills)
                     -Portfolio-Testimonials-footer.
-           
+                    
+                    
+# DataBase
+       I have used Mysql and php 
+       Be note i used php6/7 thats means SQLi NOT SQL
+         basically , Phphmyadmin , you can access By
+              1-Downlaod XAMPP 
+              2-download PHP6/7
+              
+              
+              
 
