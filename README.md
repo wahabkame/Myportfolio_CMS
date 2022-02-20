@@ -47,7 +47,7 @@ This is my portfolio , done it by php/Mysql CMS
                1-create new db as "db_freelance"
                2-import from folder "database" file named "db_freelance.sql"
                3then you database should be something like this
-              ![Alt text](/uploads/SharedScreenshot.jpg "DB_img")
+              ![Alt text](/uploads/db_img.jpg "DB_img")
               
               
 
